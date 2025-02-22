@@ -1,4 +1,4 @@
-# Discord Bot Website 03 (landing page only)
+# Lyre Music Bot Invite Now!
 
 # Preview
 
